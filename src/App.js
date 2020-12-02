@@ -1,10 +1,10 @@
 import logo from './logo.svg';
-import './App.css';
+import Login from './components/form/Login.js';
+import Registration from './components/form/Registration.js';
 
 function App() {
   return (
-    <div className="App">
-    </div>
+        <Registration/>
   );
 }
 
